@@ -1,0 +1,22 @@
+id: DB4556A5F
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-01-11T09:51:12+00:00'
+last_modified: '2022-05-26T08:23:56.565056+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    340e:
+      image_group_id: I1PD95860
+      title: ལེའུ་བཅོ་བརྒྱད་པའི་རྒྱ་ཆེར་འགྲེལ་པ།
+      total_pages: 1453
+      order: 15
+      base_file: 340e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
